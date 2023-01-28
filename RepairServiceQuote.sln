@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepairServiceQuote", "RepairServiceQuote.csproj", "{FD8B23A9-C583-481C-B14B-A818E8BD5D9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD8B23A9-C583-481C-B14B-A818E8BD5D9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD8B23A9-C583-481C-B14B-A818E8BD5D9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD8B23A9-C583-481C-B14B-A818E8BD5D9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD8B23A9-C583-481C-B14B-A818E8BD5D9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E77F96B7-2A9E-4007-8948-D9D9A1261CDB}
+	EndGlobalSection
+EndGlobal
